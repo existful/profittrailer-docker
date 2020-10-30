@@ -9,14 +9,14 @@ For more information about ProfitTrailer :
 
  - Official website : https://profittrailer.com
  - Wiki : https://wiki.profittrailer.io
- - Github : https://github.com/taniman/profittrailer
+ - Github : https://github.com/taniman/profit-trailer
 
 Usage
 -----
 
 Start a new container with a volume for your config files
 
-    docker run -d --name profittrailer -p 8081:8081 existful/profit-trailer:latest
+    docker run -d --name profittrailer -p 8081:8081 existful/profittrailer:latest
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/existful/profittrailer)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/existful/profittrailer)
